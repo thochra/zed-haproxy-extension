@@ -1,0 +1,4 @@
+name = "HAProxy"
+grammar = "haproxy"
+path_suffixes = ["haproxy.cfg", "haproxy.conf"]
+line_comments = ["#"]
